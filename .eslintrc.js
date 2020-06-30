@@ -12,7 +12,7 @@ module.exports = {
     },
     'rules': {
         'comma-dangle':         [2, 'never'],
-        'import/no-unresolved': [2, {ignore: ['window', 'Bro']}],
+        'import/no-unresolved': [2, {ignore: ['Bro']}],
         'no-cond-assign':       [2, 'except-parens'],
         'indent':               0,
         'no-continue':          0,
