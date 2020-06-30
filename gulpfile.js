@@ -5,8 +5,6 @@ const rollup = require('gulp-rollup-2');
 const source = require('gulp-sourcemaps');
 const terser = require('gulp-terser');
 const clean  = require('del');
-//const brojq  = require('bro-jq');
-const jquery = require('jquery');
 
 const bundle = async function (dep, min) {
     

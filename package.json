@@ -8,7 +8,7 @@
     "jQuery",
     "Bro"
   ],
-  "main": "main.js",
+  "main": "dist/bro-ui.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/orcunsaltik/bro-ui.git"
